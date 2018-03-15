@@ -29,5 +29,3 @@ print(buildform.index)
 #建立category資料結構
 Mycategorical = pandas.Categorical(["A","B","C"])
 print(Mycategorical)
-
-
