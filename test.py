@@ -21,10 +21,9 @@ print("It's time to rocks"+" and rolls!") #可以進行字串+組合
 days = 30
 days -= 29  # d = d + 5 簡潔的運算子+= -= *= /= %/
 print(days)
-print("Today is "+ str(days) +"天在練習Python!" ) 
+print("Today is "+ str(days) +"天在練習Python!" )
 #變數類型轉換 　才可印出↖   而非 +days+
 
 test_bool = True
 print(float(test_bool))
 print(complex(test_bool))
-
