@@ -9,13 +9,13 @@ print(vlist[vlist>12]) #印出>12的資料
 
 mlist = numpy.array([[1,2,3],[4,5,6]]) #矩陣結構
 print(mlist)
-print(mlist.size) 
-print(mlist.shape) #矩陣規模
+print(mlist.size)
+print(mlist.shape)  #矩陣規模
 
 #用dictionary建表格 用法pandas.DataFrame
-stuname = ["Killy","Troy","Zoe","Zac"]
-mathsor = [60,98,43,75]
-myform = {"name":stuname,"score":mathsor}
+stuname = ["Killy", "Troy", "Zoe", "Zac"]
+mathscor = [60, 98, 43, 75]
+myform = {"name": stuname, "score": mathscor}
 buildform=pandas.DataFrame(myform)
 print(buildform)
 
