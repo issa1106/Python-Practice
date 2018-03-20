@@ -71,13 +71,10 @@
 1. 懶人包教學文章中的電腦系統環境變數Path改為Anaconda的Python路徑
 
    (查詢方法開啟Anaconda環境包中的Prompt，輸入where python查詢)
-![Anaconda Prompt](http://photo.xuite.net/issa1106/19788586/14.jpg)
 
 2. 打開Sublime的Package settings將Anaconda的python_interpreter的路徑也更改
 
    (Sublime中可用查詢，點選左下角的小框框Switch Panel點選Find)
-
-![sublime setting](http://photo.xuite.net/issa1106/19788586/13.jpg)
 
 3. 選單中Tools，Build System建立的新的編碼系統New Build System，寫上如下面的程式碼
 
@@ -85,12 +82,17 @@
 
    (經測試encoding中的cp950可以印出中文，如設定UTF-8不會有錯誤訊息但無法print輸出中文)
 
-`{
-   "cmd": ["C:\\ProgramData\\Anaconda3\\python.exe", "-u", "$file"],
-   "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-   "selector": "source.python",
-   "encoding": "cp950"
-}`
+   {
+
+        "cmd": ["C:\\ProgramData\\Anaconda3\\python.exe", "-u", "$file"],
+   
+         "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+   
+         "selector": "source.python",
+   
+         "encoding": "cp950"
+   
+   }
 
 最後，如果開啟.py檔還有Anaconda的錯誤訊息，但程式可以順利Build，無錯誤訊息
 
