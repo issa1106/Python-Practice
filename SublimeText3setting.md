@@ -82,18 +82,18 @@
 
    (經測試encoding中的cp950可以印出中文，如設定UTF-8不會有錯誤訊息但無法print輸出中文)
 
-   {
+         {
 
-        "cmd": ["C:\\ProgramData\\Anaconda3\\python.exe", "-u", "$file"],
+           "cmd": ["C:\\ProgramData\\Anaconda3\\python.exe", "-u", "$file"],
    
-         "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+           "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
    
-         "selector": "source.python",
+            "selector": "source.python",
    
-         "encoding": "cp950"
+           "encoding": "cp950"
    
-   }
-
+          }
+   
 最後，如果開啟.py檔還有Anaconda的錯誤訊息，但程式可以順利Build，無錯誤訊息
 
 可以依照它顯示的訊息內容，在Package settings中的此顯示設定忽略
