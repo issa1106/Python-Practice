@@ -3,6 +3,8 @@
 
 跟隨別人的腳步，順便練習使用git
 
+新增Sublime Text的Python設定:Sublime setting.md
+
 目前已練習:
 [learn_python_for_a_r_user](https://github.com/yaojenkuo/learn_python_for_a_r_user)
 
@@ -24,6 +26,11 @@
 	+ practice6.py 物件導向的繼承與改寫
 
 + ithelp中的第12-14天 練習檔案:
+	+ practice7.py 更多Data Frame的屬性與方法
 
-practice7.py 更多Data Frame的屬性與方法
++ ithelp中15-16天 練習檔案:
+	+ practice8.py 載入資料 (資料集:學生成績S10619A)
+	+ practice9.py 抓網頁練習
+
+
 
