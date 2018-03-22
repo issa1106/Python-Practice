@@ -32,5 +32,6 @@
 	+ practice8.py 載入資料 (資料集:學生成績S10619A)
 	+ practice9.py 抓網頁練習
 
-
++ ithelp中的第17天 練習檔案:
+	+ practice10.py 資料整理
 
