@@ -35,14 +35,18 @@
 
 於是我去下載[Anaconda](https://www.anaconda.com/download/)，然後要裝32-bit版本的 (忘記在哪看到64-bit的python run什麼有問題了)
 
-安裝完發現它是完整環境包，
-裡面有配備Python跟IDE，
+安裝完發現它是完整環境包，裡面有配備Python跟IDE，
+
 就像買了份日本定食，只買壽司，發現送主餐肉排、味增湯和小菜
 
 當然主餐肉排就是我們的Python，
+
 然後味增湯是名為Spyder的IDE(朋友後來說他工作是用這個開發環境)，
+
 還有小菜Jupyter Notebook(教學文章中所使用)，
+
 也就是說，若你不想用Sublime Text當編譯器，只想跟著教學文章練習，
+
 請直接安裝Anaconda就可以了。
 
 問題就來了，那我用Sublime Text 3 編譯時，到底是用哪個版本Python
@@ -69,6 +73,8 @@
 
    (經測試encoding中的cp950可以印出中文，如設定UTF-8不會有錯誤訊息但無法print輸出中文)
 
+   (Shell設定為true可顯示出圖片，統計圖表show時用的)
+
          {
 
            "cmd": ["C:\\ProgramData\\Anaconda3\\python.exe", "-u", "$file"],
@@ -78,6 +84,8 @@
             "selector": "source.python",
    
            "encoding": "cp950"
+
+           "shell": "true"
    
           }
    
