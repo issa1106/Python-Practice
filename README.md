@@ -36,3 +36,8 @@
 + ithelp中的第18-20天 練習檔案:
 	+ [practice11.py](https://github.com/issa1106/Python-Practice/blob/master/practice11.py) 繪圖套件
 
++ ithelp中的第21-22天 練習檔案:
+	+ [practice12.py](https://github.com/issa1106/Python-Practice/blob/master/practice12.py) 線性迴歸分析，紅茶冰與蛋糕店
+	+ [practice13.py](https://github.com/issa1106/Python-Practice/blob/master/practice13.py)
+	二元回歸模型，鐵達尼號Survived
+	
