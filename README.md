@@ -44,6 +44,10 @@
 + ithelp中的第23天 練習檔案:
  	+ [practice14.py](https://github.com/issa1106/Python-Practice/blob/master/practice14.py)
  	多元分類器:決策樹分類iris
+
+ + ithelp中的第24天 練習檔案:
+ 	+ [practice15.py](https://github.com/issa1106/Python-Practice/blob/master/practice15.py)
+ 	非監督式學習 
 	
 
 ## 版本
