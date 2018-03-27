@@ -39,5 +39,14 @@
 + ithelp中的第21-22天 練習檔案:
 	+ [practice12.py](https://github.com/issa1106/Python-Practice/blob/master/practice12.py) 線性迴歸分析，紅茶冰與蛋糕店
 	+ [practice13.py](https://github.com/issa1106/Python-Practice/blob/master/practice13.py)
-	二元回歸模型，鐵達尼號Survived
+	二元迴歸模型，鐵達尼號Survived
+
++ ithelp中的第23天 練習檔案:
+ 	+ [practice14.py](https://github.com/issa1106/Python-Practice/blob/master/practice14.py)
+ 	多元分類器:決策樹分類iris
 	
+
+## 版本
++ Python 3.6.4
++ Anaconda 5.1.0
++ scikit-learn 0.19.1
