@@ -33,7 +33,8 @@
 
 然後真的很感謝[Stack Overflow](https://stackoverflow.com/)有好多問題上面都有討論，雖然是英文，有點硬就是了
 
-於是我去下載[Anaconda](https://www.anaconda.com/download/)，然後要裝32-bit版本的 (忘記在哪看到64-bit的python run什麼有問題了)
+於是我去下載[Anaconda](https://www.anaconda.com/download/)
+(似乎要64bit才能玩手寫辨識，安裝Tensorflow)
 
 安裝完發現它是完整環境包，裡面有配備Python跟IDE，
 
