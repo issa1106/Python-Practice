@@ -48,7 +48,11 @@
  + ithelp中的第24天 練習檔案:
  	+ [practice15.py](https://github.com/issa1106/Python-Practice/blob/master/practice15.py)
  	非監督式學習 
-	
+
++ ithelp中的第25-26天 練習檔案:
+	+ [practice16.py](https://github.com/issa1106/Python-Practice/blob/master/practice16.py)
+	整體學習 基本分類器投票 Bagging, AdaBoost, Random Forest, SVM
+
 
 ## 版本
 + Python 3.6.4
