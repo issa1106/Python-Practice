@@ -1,7 +1,7 @@
 ﻿# Python-Practice
 紀錄所學 practice coding，跟隨別人的腳步，順便練習使用git
 
-新增Sublime Text的Python設定:Sublime setting.md
+新增Sublime Text的Python設定:[SublimeText3setting.md](https://github.com/issa1106/Python-Practice/blob/master/SublimeText3setting.md)
 
 目前已練習:
 [learn_python_for_a_r_user](https://github.com/yaojenkuo/learn_python_for_a_r_user)
@@ -53,6 +53,11 @@
 	+ [practice16.py](https://github.com/issa1106/Python-Practice/blob/master/practice16.py)
 	整體學習 基本分類器投票 Bagging, AdaBoost, Random Forest, SVM
 
++ ithelp中的第27天 練習檔案:
+	+ [practice17.py](https://github.com/issa1106/Python-Practice/blob/master/practice17.py)
+	模擬迴歸線的係數與截距
+	+ [practice18.py](https://github.com/issa1106/Python-Practice/blob/master/practice18.py)
+	TensorFlow基本變數與執行運算
 
 ## 版本
 + Python 3.6.4
