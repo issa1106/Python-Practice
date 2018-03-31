@@ -61,7 +61,7 @@
 
 + ithelp中的第28天 練習檔案:
 	+ [practice19.py](https://github.com/issa1106/Python-Practice/blob/master/practice19.py)
-	模組化與視覺化TensorBoardS
+	模組化與視覺化TensorBoard
 
 ## 版本
 + Python 3.6.4
