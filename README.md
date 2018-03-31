@@ -59,7 +59,12 @@
 	+ [practice18.py](https://github.com/issa1106/Python-Practice/blob/master/practice18.py)
 	TensorFlow基本變數與執行運算
 
++ ithelp中的第28天 練習檔案:
+	+ [practice19.py](https://github.com/issa1106/Python-Practice/blob/master/practice19.py)
+	模組化與視覺化TensorBoardS
+
 ## 版本
 + Python 3.6.4
 + Anaconda 5.1.0
-+ scikit-learn 0.19.1
++ Scikit-learn 0.19.1
++ Tensorflow 1.2.1
