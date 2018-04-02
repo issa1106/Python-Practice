@@ -1,7 +1,7 @@
 ﻿# Python-Practice
 紀錄所學 practice coding，跟隨別人的腳步，順便練習使用git
 
-新增Sublime Text的Python設定:[SublimeText3setting.md](https://github.com/issa1106/Python-Practice/blob/master/SublimeText3setting.md)
+新增Sublime Text的Python設定 :[SublimeText3setting.md](https://github.com/issa1106/Python-Practice/blob/master/SublimeText3setting.md)
 
 目前已練習:
 [learn_python_for_a_r_user](https://github.com/yaojenkuo/learn_python_for_a_r_user)
@@ -62,6 +62,10 @@
 + ithelp中的第28天 練習檔案:
 	+ [practice19.py](https://github.com/issa1106/Python-Practice/blob/master/practice19.py)
 	模組化與視覺化TensorBoard
+
++ ithelp中的第29天 練習檔案:
+	+ [practice20.py](https://github.com/issa1106/Python-Practice/blob/master/practice20.py)
+	MINST 手寫數字辨識初做
 
 ## 版本
 + Python 3.6.4
