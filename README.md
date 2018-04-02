@@ -67,6 +67,13 @@
 	+ [practice20.py](https://github.com/issa1106/Python-Practice/blob/master/practice20.py)
 	MINST 手寫數字辨識初做
 
++ ithelp中的第30天 練習檔案:
+	+ [practice21.py](https://github.com/issa1106/Python-Practice/blob/master/practice21.py)
+	卷積神經網絡實作 提高手寫數字辨識精確度
+
+	Convolutional Neural Network, CNN
+
+
 ## 版本
 + Python 3.6.4
 + Anaconda 5.1.0
